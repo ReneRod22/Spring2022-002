@@ -20,3 +20,4 @@ public class TravelDestination {
 				System.out.println("My name is Rene Rodriguez. I wish to travel to Japan one day !");
 
 	}
+}
